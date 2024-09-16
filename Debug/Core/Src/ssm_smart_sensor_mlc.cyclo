@@ -1,0 +1,3 @@
+../Core/Src/ssm_smart_sensor_mlc.c:26:9:ssm_smart_sensor_mlc_init	2
+../Core/Src/ssm_smart_sensor_mlc.c:39:9:ssm_smart_sensor_mlc_configure_ucf	3
+../Core/Src/ssm_smart_sensor_mlc.c:58:9:ssm_smart_sensor_mlc_handle_event	4

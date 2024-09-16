@@ -1,0 +1,4 @@
+../Core/Src/firmware.c:24:6:UART_Debug_Print	1
+../Core/Src/firmware.c:31:6:MX_ssm_Init	3
+../Core/Src/firmware.c:56:6:MX_ssm_Process	3
+../Core/Src/firmware.c:91:1:__io_putchar	1
